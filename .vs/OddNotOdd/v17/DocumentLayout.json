@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unreal Engine\\SkillBox\\ConsoleProgram\\OddNotOdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A728CB5-4E80-4E6E-BC88-67903C030F87}|OddNotOdd.vcxproj|D:\\Unreal Engine\\SkillBox\\ConsoleProgram\\OddNotOdd\\OddNotOdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A728CB5-4E80-4E6E-BC88-67903C030F87}|OddNotOdd.vcxproj|solutionrelative:OddNotOdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OddNotOdd.cpp",
+              "DocumentMoniker": "D:\\Unreal Engine\\SkillBox\\ConsoleProgram\\OddNotOdd\\OddNotOdd.cpp",
+              "RelativeDocumentMoniker": "OddNotOdd.cpp",
+              "ToolTip": "D:\\Unreal Engine\\SkillBox\\ConsoleProgram\\OddNotOdd\\OddNotOdd.cpp",
+              "RelativeToolTip": "OddNotOdd.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T15:14:29.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
